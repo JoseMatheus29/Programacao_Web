@@ -1,0 +1,22 @@
+*{
+    background-color: aliceblue;
+}
+form{
+    text-align: center;
+    border-radius: 25px;
+    border-color:black;
+}
+label{
+    color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 120px;
+    height: 120px;
+}
+
+.envia{
+    background-color: aliceblue;
+}
